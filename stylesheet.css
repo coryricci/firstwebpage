@@ -1,0 +1,33 @@
+img {
+	width:150px;
+	height:150pxpx;
+	margin:auto;
+	text-align:center;
+}
+
+table, td {
+	border: 1px #70b8ff dashed;
+}
+p{
+    font-family:Courier;
+    margin:auto;
+    text-align:center;
+
+}
+.fancy{
+    font-family:cursive;
+	}
+h1{
+    margin:auto;
+    text-align:center;
+	}
+h2{
+	margin:auto;
+    text-align:center;
+	}
+	
+	html{
+    background-color:#C6E2FF;
+	}
+	
+	
